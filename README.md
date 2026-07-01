@@ -4,21 +4,20 @@ Software engineer building systems end-to-end.
 
 Interested in:
 
-* scalable backend systems
-* product engineering
-* applied ai systems
-* distributed systems
+* Scalable Backend Systems
+* Product Engineering
+* Applied AI Systems
 
 Recent work:
 
-→ Enterprise internal tooling @ BPI
+→ Enterprise internal tooling @ [BPI](https://olanajhoanna.netlify.app/posts/bpi-pis/) 
 
 → University-scale workflow systems - [IRIS](https://github.com/jrolana/iris/)
 
-→ Multimodal ai applications
+→ Multimodal AI applications
 
-→ Top 8 finalist, UN cybercrime hackathon
+→ Top 8 finalist, UN Cybercrime Hackathon
 
 Tech:
 
-typescript · python · node.js · react · postgresql · next.js
+Typescript · Python · Node.js · React · Postgresql · Next.js
